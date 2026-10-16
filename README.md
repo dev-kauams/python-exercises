@@ -7,10 +7,10 @@ Coleção organizada de exercícios e estudos de Python.
 
 ## Índice
 
-- [`exec-python`](projects/exec-python/) — [repositório original](https://github.com/dev-kauams/exec-python)
-- [`sabor-express_-Alunos-`](projects/sabor-express_-Alunos-/) — [repositório original](https://github.com/dev-kauams/sabor-express_-Alunos-)
-- [`sabor-express_fase_2_grava`](projects/sabor-express_fase_2_grava/) — [repositório original](https://github.com/dev-kauams/sabor-express_fase_2_grava)
-- [`to-do_list_python`](projects/to-do_list_python/) — [repositório original](https://github.com/dev-kauams/to-do_list_python)
+- [`exercicios-basicos`](projects/exercicios-basicos/) — origem: [`exec-python`](https://github.com/dev-kauams/exec-python)
+- [`sabor-express-alunos`](projects/sabor-express-alunos/) — origem: [`sabor-express_-Alunos-`](https://github.com/dev-kauams/sabor-express_-Alunos-)
+- [`sabor-express-fase-2`](projects/sabor-express-fase-2/) — origem: [`sabor-express_fase_2_grava`](https://github.com/dev-kauams/sabor-express_fase_2_grava)
+- [`lista-de-tarefas`](projects/lista-de-tarefas/) — origem: [`to-do_list_python`](https://github.com/dev-kauams/to-do_list_python)
 
 ## Como usar
 
